@@ -1,0 +1,626 @@
+[
+  {
+    "name": "Bear Lake Loop",
+    "latitude": 40.3128,
+    "longitude": -105.6458,
+    "distance_miles": 0.8,
+    "difficulty": "Easy",
+    "description": "A scenic loop around Bear Lake in Rocky Mountain National Park with views of Hallett Peak and Continental Divide."
+  },
+  {
+    "name": "Nymph Lake Trail",
+    "latitude": 40.3105,
+    "longitude": -105.6480,
+    "distance_miles": 2.2,
+    "difficulty": "Easy",
+    "description": "A short hike from Bear Lake to Nymph Lake through subalpine forest in RMNP."
+  },
+  {
+    "name": "Alberta Falls Trail",
+    "latitude": 40.3060,
+    "longitude": -105.6370,
+    "distance_miles": 1.7,
+    "difficulty": "Easy",
+    "description": "Popular trail to a beautiful waterfall in Rocky Mountain National Park's Glacier Gorge area."
+  },
+  {
+    "name": "Sprague Lake Loop",
+    "latitude": 40.3225,
+    "longitude": -105.6085,
+    "distance_miles": 0.9,
+    "difficulty": "Easy",
+    "description": "An accessible loop trail around Sprague Lake with stunning mountain reflections."
+  },
+  {
+    "name": "Gem Lake Trail",
+    "latitude": 40.3930,
+    "longitude": -105.5140,
+    "distance_miles": 3.4,
+    "difficulty": "Moderate",
+    "description": "A rewarding hike to a unique granite lake near Estes Park with panoramic views."
+  },
+  {
+    "name": "Garden of the Gods: Perkins Central Garden Trail",
+    "latitude": 38.8787,
+    "longitude": -104.8697,
+    "distance_miles": 1.5,
+    "difficulty": "Easy",
+    "description": "Paved trail winding through dramatic red rock formations in Colorado Springs."
+  },
+  {
+    "name": "Garden of the Gods: Siamese Twins Trail",
+    "latitude": 38.8660,
+    "longitude": -104.8620,
+    "distance_miles": 1.0,
+    "difficulty": "Easy",
+    "description": "Short trail to iconic twin rock formations framing Pikes Peak."
+  },
+  {
+    "name": "Red Rocks: Trading Post Trail",
+    "latitude": 39.6636,
+    "longitude": -105.2055,
+    "distance_miles": 1.4,
+    "difficulty": "Easy",
+    "description": "Loop trail through the famous Red Rocks area near Morrison, Colorado."
+  },
+  {
+    "name": "Hanging Lake Trail",
+    "latitude": 39.6013,
+    "longitude": -107.1924,
+    "distance_miles": 3.0,
+    "difficulty": "Hard",
+    "description": "Iconic Colorado hike to a turquoise hanging lake with a waterfall in Glenwood Canyon."
+  },
+  {
+    "name": "Chautauqua: Royal Arch Trail",
+    "latitude": 39.9990,
+    "longitude": -105.2830,
+    "distance_miles": 3.4,
+    "difficulty": "Hard",
+    "description": "Challenging hike to a natural rock arch with views of Boulder and the Flatirons."
+  },
+  {
+    "name": "Lower Yosemite Fall Trail",
+    "latitude": 37.7566,
+    "longitude": -119.5966,
+    "distance_miles": 1.0,
+    "difficulty": "Easy",
+    "description": "Easy loop to the base of the iconic Yosemite Falls in Yosemite National Park."
+  },
+  {
+    "name": "Mirror Lake Loop",
+    "latitude": 37.7580,
+    "longitude": -119.5570,
+    "distance_miles": 2.0,
+    "difficulty": "Easy",
+    "description": "Flat trail to Mirror Lake with reflections of Half Dome in Yosemite Valley."
+  },
+  {
+    "name": "Bridalveil Fall Trail",
+    "latitude": 37.7166,
+    "longitude": -119.6460,
+    "distance_miles": 0.5,
+    "difficulty": "Easy",
+    "description": "Short walk to the base of the 620-foot Bridalveil Fall in Yosemite."
+  },
+  {
+    "name": "Cook's Meadow Loop",
+    "latitude": 37.7460,
+    "longitude": -119.5890,
+    "distance_miles": 1.0,
+    "difficulty": "Easy",
+    "description": "Flat loop through Yosemite Valley meadows with views of Half Dome, Sentinel Rock, and Yosemite Falls."
+  },
+  {
+    "name": "Joshua Tree: Barker Dam Loop",
+    "latitude": 34.0189,
+    "longitude": -116.1522,
+    "distance_miles": 1.3,
+    "difficulty": "Easy",
+    "description": "Loop trail past a historic dam and Native American petroglyphs in Joshua Tree."
+  },
+  {
+    "name": "Joshua Tree: Skull Rock Trail",
+    "latitude": 34.0070,
+    "longitude": -116.0500,
+    "distance_miles": 1.7,
+    "difficulty": "Easy",
+    "description": "Fun trail to a skull-shaped rock formation through desert landscape."
+  },
+  {
+    "name": "Joshua Tree: Hidden Valley Trail",
+    "latitude": 34.0130,
+    "longitude": -116.1650,
+    "distance_miles": 1.0,
+    "difficulty": "Easy",
+    "description": "Loop through a rock-enclosed valley once used by cattle rustlers."
+  },
+  {
+    "name": "Muir Woods: Main Trail Loop",
+    "latitude": 37.8970,
+    "longitude": -122.5710,
+    "distance_miles": 2.0,
+    "difficulty": "Easy",
+    "description": "Boardwalk trail among towering old-growth coast redwoods north of San Francisco."
+  },
+  {
+    "name": "Point Reyes: Cypress Tree Tunnel",
+    "latitude": 38.0720,
+    "longitude": -122.8380,
+    "distance_miles": 1.0,
+    "difficulty": "Easy",
+    "description": "Picturesque walk through a tunnel of Monterey cypress trees."
+  },
+  {
+    "name": "McWay Falls Overlook Trail",
+    "latitude": 36.1582,
+    "longitude": -121.6725,
+    "distance_miles": 0.6,
+    "difficulty": "Easy",
+    "description": "Short trail to an overlook of a stunning 80-foot waterfall dropping onto a beach in Big Sur."
+  },
+  {
+    "name": "Angels Landing",
+    "latitude": 37.2693,
+    "longitude": -112.9468,
+    "distance_miles": 4.0,
+    "difficulty": "Hard",
+    "description": "Iconic Zion hike with chain-assisted sections to a dramatic viewpoint above the canyon."
+  },
+  {
+    "name": "Zion: Canyon Overlook Trail",
+    "latitude": 37.2138,
+    "longitude": -112.9410,
+    "distance_miles": 1.0,
+    "difficulty": "Moderate",
+    "description": "Short hike to a panoramic viewpoint overlooking Zion Canyon and Pine Creek."
+  },
+  {
+    "name": "Zion: Riverside Walk",
+    "latitude": 37.2852,
+    "longitude": -112.9480,
+    "distance_miles": 2.2,
+    "difficulty": "Easy",
+    "description": "Paved path along the Virgin River at the gateway to the Narrows in Zion."
+  },
+  {
+    "name": "Zion: Watchman Trail",
+    "latitude": 37.1998,
+    "longitude": -112.9870,
+    "distance_miles": 3.3,
+    "difficulty": "Moderate",
+    "description": "Loop trail with views of Watchman peak, Zion Canyon, and surrounding towers."
+  },
+  {
+    "name": "Arches: Delicate Arch Trail",
+    "latitude": 38.7436,
+    "longitude": -109.4993,
+    "distance_miles": 3.2,
+    "difficulty": "Moderate",
+    "description": "Classic hike to Utah's most famous natural arch in Arches National Park."
+  },
+  {
+    "name": "Arches: Double Arch Trail",
+    "latitude": 38.6930,
+    "longitude": -109.5370,
+    "distance_miles": 0.5,
+    "difficulty": "Easy",
+    "description": "Short walk to two massive arches joined at one end in the Windows section."
+  },
+  {
+    "name": "Arches: Landscape Arch Trail",
+    "latitude": 38.7910,
+    "longitude": -109.6070,
+    "distance_miles": 1.9,
+    "difficulty": "Easy",
+    "description": "Trail to one of the world's longest natural stone arches in Devils Garden."
+  },
+  {
+    "name": "Bryce Canyon: Navajo Loop Trail",
+    "latitude": 37.6223,
+    "longitude": -112.1670,
+    "distance_miles": 1.3,
+    "difficulty": "Moderate",
+    "description": "Descend among towering hoodoos through Wall Street canyon in Bryce Canyon."
+  },
+  {
+    "name": "Bryce Canyon: Queens Garden Trail",
+    "latitude": 37.6230,
+    "longitude": -112.1590,
+    "distance_miles": 1.8,
+    "difficulty": "Moderate",
+    "description": "Scenic descent into a garden of hoodoos named after Queen Victoria."
+  },
+  {
+    "name": "Bryce Canyon: Sunset to Sunrise Point",
+    "latitude": 37.6270,
+    "longitude": -112.1620,
+    "distance_miles": 1.0,
+    "difficulty": "Easy",
+    "description": "Rim trail walk between two of Bryce Canyon's best viewpoints."
+  },
+  {
+    "name": "Olympic: Hall of Mosses Trail",
+    "latitude": 47.8600,
+    "longitude": -123.9340,
+    "distance_miles": 0.8,
+    "difficulty": "Easy",
+    "description": "Enchanting loop through the Hoh Rain Forest draped in green mosses."
+  },
+  {
+    "name": "Olympic: Spruce Nature Trail",
+    "latitude": 47.8610,
+    "longitude": -123.9330,
+    "distance_miles": 1.2,
+    "difficulty": "Easy",
+    "description": "Loop trail through old-growth Sitka spruce along the Hoh River."
+  },
+  {
+    "name": "Olympic: Marymere Falls Trail",
+    "latitude": 48.0590,
+    "longitude": -123.8000,
+    "distance_miles": 1.8,
+    "difficulty": "Easy",
+    "description": "Trail through old-growth forest to a 90-foot waterfall near Lake Crescent."
+  },
+  {
+    "name": "Mount Rainier: Nisqually Vista Trail",
+    "latitude": 46.7862,
+    "longitude": -121.7350,
+    "distance_miles": 1.2,
+    "difficulty": "Easy",
+    "description": "Short loop with views of the Nisqually Glacier and wildflower meadows at Paradise."
+  },
+  {
+    "name": "Mount Rainier: Skyline Trail to Myrtle Falls",
+    "latitude": 46.7860,
+    "longitude": -121.7355,
+    "distance_miles": 1.0,
+    "difficulty": "Easy",
+    "description": "Quick hike to a picturesque waterfall with Mount Rainier as a backdrop."
+  },
+  {
+    "name": "Columbia River Gorge: Wahclella Falls",
+    "latitude": 45.6310,
+    "longitude": -121.9520,
+    "distance_miles": 1.9,
+    "difficulty": "Easy",
+    "description": "Trail to a two-tiered waterfall in a lush gorge near Bonneville Dam."
+  },
+  {
+    "name": "Columbia River Gorge: Latourell Falls Loop",
+    "latitude": 45.5375,
+    "longitude": -122.2180,
+    "distance_miles": 2.4,
+    "difficulty": "Moderate",
+    "description": "Loop past upper and lower Latourell Falls, one of the Gorge's most photogenic waterfalls."
+  },
+  {
+    "name": "Silver Falls: South Falls Loop",
+    "latitude": 44.8770,
+    "longitude": -122.6540,
+    "distance_miles": 2.6,
+    "difficulty": "Easy",
+    "description": "Walk behind a stunning 177-foot waterfall at Oregon's Silver Falls State Park."
+  },
+  {
+    "name": "Acadia: Ocean Path Trail",
+    "latitude": 44.3290,
+    "longitude": -68.1860,
+    "distance_miles": 3.8,
+    "difficulty": "Easy",
+    "description": "Coastal trail along dramatic granite cliffs with ocean views in Acadia National Park."
+  },
+  {
+    "name": "Acadia: Jordan Pond Shore Trail",
+    "latitude": 44.3210,
+    "longitude": -68.2530,
+    "distance_miles": 3.4,
+    "difficulty": "Easy",
+    "description": "Loop around a crystal-clear glacial pond with views of the Bubbles in Acadia."
+  },
+  {
+    "name": "Acadia: Gorham Mountain Trail",
+    "latitude": 44.3150,
+    "longitude": -68.1880,
+    "distance_miles": 3.6,
+    "difficulty": "Moderate",
+    "description": "Open-ledge hike with panoramic ocean views and ancient sea caves."
+  },
+  {
+    "name": "White Mountains: Arethusa Falls Trail",
+    "latitude": 44.1510,
+    "longitude": -71.3680,
+    "distance_miles": 2.6,
+    "difficulty": "Moderate",
+    "description": "Hike to the tallest waterfall in New Hampshire through the White Mountains."
+  },
+  {
+    "name": "White Mountains: Diana's Baths",
+    "latitude": 44.0770,
+    "longitude": -71.1850,
+    "distance_miles": 1.2,
+    "difficulty": "Easy",
+    "description": "Easy walk to cascading waterfalls and natural swimming pools near North Conway."
+  },
+  {
+    "name": "White Mountains: Artists Bluff",
+    "latitude": 44.1730,
+    "longitude": -71.6830,
+    "distance_miles": 1.5,
+    "difficulty": "Moderate",
+    "description": "Short climb to a scenic overlook of Franconia Notch and Echo Lake."
+  },
+  {
+    "name": "Great Smoky Mountains: Laurel Falls Trail",
+    "latitude": 35.6690,
+    "longitude": -83.5850,
+    "distance_miles": 2.6,
+    "difficulty": "Easy",
+    "description": "Popular paved trail to an 80-foot waterfall in the Great Smoky Mountains."
+  },
+  {
+    "name": "Great Smoky Mountains: Grotto Falls Trail",
+    "latitude": 35.6670,
+    "longitude": -83.4410,
+    "distance_miles": 2.6,
+    "difficulty": "Moderate",
+    "description": "Hike through old-growth forest to a waterfall you can walk behind."
+  },
+  {
+    "name": "Great Smoky Mountains: Clingmans Dome Trail",
+    "latitude": 35.5629,
+    "longitude": -83.4985,
+    "distance_miles": 1.0,
+    "difficulty": "Moderate",
+    "description": "Steep paved trail to the highest point in the Smokies with a 360-degree observation tower."
+  },
+  {
+    "name": "Great Smoky Mountains: Andrews Bald",
+    "latitude": 35.5570,
+    "longitude": -83.4940,
+    "distance_miles": 3.6,
+    "difficulty": "Moderate",
+    "description": "Trail to a grassy bald with panoramic mountain views near Clingmans Dome."
+  },
+  {
+    "name": "Shenandoah: Dark Hollow Falls",
+    "latitude": 38.5210,
+    "longitude": -78.4290,
+    "distance_miles": 1.4,
+    "difficulty": "Moderate",
+    "description": "Short hike to a beautiful cascading waterfall from Skyline Drive."
+  },
+  {
+    "name": "Shenandoah: Stony Man Trail",
+    "latitude": 38.5935,
+    "longitude": -78.3760,
+    "distance_miles": 1.6,
+    "difficulty": "Easy",
+    "description": "Easy hike to the second-highest peak in Shenandoah with sweeping valley views."
+  },
+  {
+    "name": "Shenandoah: Bearfence Mountain",
+    "latitude": 38.4580,
+    "longitude": -78.4650,
+    "distance_miles": 1.2,
+    "difficulty": "Hard",
+    "description": "Short but thrilling rock scramble to a 360-degree summit view."
+  },
+  {
+    "name": "Sedona: Devil's Bridge Trail",
+    "latitude": 34.8610,
+    "longitude": -111.8140,
+    "distance_miles": 3.9,
+    "difficulty": "Moderate",
+    "description": "Popular hike to the largest natural sandstone arch in Sedona, Arizona."
+  },
+  {
+    "name": "Sedona: Cathedral Rock Trail",
+    "latitude": 34.8230,
+    "longitude": -111.7900,
+    "distance_miles": 1.2,
+    "difficulty": "Hard",
+    "description": "Steep scramble up one of Sedona's most iconic red rock formations."
+  },
+  {
+    "name": "Sedona: Bell Rock Pathway",
+    "latitude": 34.8070,
+    "longitude": -111.7720,
+    "distance_miles": 3.6,
+    "difficulty": "Easy",
+    "description": "Flat path around the base of Bell Rock with panoramic red rock views."
+  },
+  {
+    "name": "Grand Canyon: Bright Angel Point Trail",
+    "latitude": 36.2010,
+    "longitude": -112.0570,
+    "distance_miles": 0.5,
+    "difficulty": "Easy",
+    "description": "Paved trail to a dramatic viewpoint on the North Rim of the Grand Canyon."
+  },
+  {
+    "name": "Grand Canyon: Rim Trail (Village Section)",
+    "latitude": 36.0573,
+    "longitude": -112.1400,
+    "distance_miles": 2.6,
+    "difficulty": "Easy",
+    "description": "Paved walkway along the South Rim between Mather Point and Bright Angel Lodge."
+  },
+  {
+    "name": "Glacier: Trail of the Cedars",
+    "latitude": 48.6800,
+    "longitude": -113.8150,
+    "distance_miles": 0.7,
+    "difficulty": "Easy",
+    "description": "Accessible boardwalk trail through an ancient cedar-hemlock forest in Glacier National Park."
+  },
+  {
+    "name": "Glacier: Running Eagle Falls",
+    "latitude": 48.4910,
+    "longitude": -113.3620,
+    "distance_miles": 0.6,
+    "difficulty": "Easy",
+    "description": "Easy trail to a unique waterfall that flows both over and through the rock face."
+  },
+  {
+    "name": "Glacier: Hidden Lake Overlook",
+    "latitude": 48.6965,
+    "longitude": -113.7165,
+    "distance_miles": 2.6,
+    "difficulty": "Moderate",
+    "description": "Alpine boardwalk trail at Logan Pass to a stunning mountain lake overlook."
+  },
+  {
+    "name": "Hawaii Volcanoes: Kilauea Iki Trail",
+    "latitude": 19.4170,
+    "longitude": -155.2440,
+    "distance_miles": 3.3,
+    "difficulty": "Moderate",
+    "description": "Hike across a solidified lava lake through a tropical rainforest in Hawaii."
+  },
+  {
+    "name": "Hawaii Volcanoes: Thurston Lava Tube",
+    "latitude": 19.4140,
+    "longitude": -155.2370,
+    "distance_miles": 0.6,
+    "difficulty": "Easy",
+    "description": "Walk through a 500-year-old lava tube surrounded by native fern forest."
+  },
+  {
+    "name": "Cuyahoga Valley: Brandywine Gorge Trail",
+    "latitude": 41.2690,
+    "longitude": -81.5330,
+    "distance_miles": 1.5,
+    "difficulty": "Easy",
+    "description": "Loop trail to a 65-foot waterfall in Ohio's Cuyahoga Valley National Park."
+  },
+  {
+    "name": "Cuyahoga Valley: Blue Hen Falls Trail",
+    "latitude": 41.2330,
+    "longitude": -81.5560,
+    "distance_miles": 1.2,
+    "difficulty": "Easy",
+    "description": "Short hike to a secluded waterfall in a hemlock-shaded ravine."
+  },
+  {
+    "name": "Badlands: Notch Trail",
+    "latitude": 43.7590,
+    "longitude": -102.3840,
+    "distance_miles": 1.5,
+    "difficulty": "Moderate",
+    "description": "Adventurous trail with a ladder climb to a canyon overlook in the Badlands."
+  },
+  {
+    "name": "Badlands: Door Trail",
+    "latitude": 43.7490,
+    "longitude": -102.3920,
+    "distance_miles": 0.7,
+    "difficulty": "Easy",
+    "description": "Walk through a natural doorway into the otherworldly Badlands formations."
+  },
+  {
+    "name": "Crater Lake: Sun Notch Trail",
+    "latitude": 42.8990,
+    "longitude": -122.0780,
+    "distance_miles": 0.8,
+    "difficulty": "Easy",
+    "description": "Short trail to an overlook of Crater Lake and Phantom Ship island in Oregon."
+  },
+  {
+    "name": "Crater Lake: Pinnacles Overlook Trail",
+    "latitude": 42.8640,
+    "longitude": -122.0280,
+    "distance_miles": 0.6,
+    "difficulty": "Easy",
+    "description": "Easy walk to view dramatic volcanic spires rising from a canyon."
+  },
+  {
+    "name": "Death Valley: Mesquite Flat Sand Dunes",
+    "latitude": 36.6113,
+    "longitude": -117.1186,
+    "distance_miles": 2.0,
+    "difficulty": "Easy",
+    "description": "Open walk among photogenic sand dunes with mountain views in Death Valley."
+  },
+  {
+    "name": "Death Valley: Golden Canyon Trail",
+    "latitude": 36.4210,
+    "longitude": -116.8470,
+    "distance_miles": 3.0,
+    "difficulty": "Moderate",
+    "description": "Hike through a colorful canyon of golden badlands formations."
+  },
+  {
+    "name": "Big Bend: Santa Elena Canyon Trail",
+    "latitude": 29.1680,
+    "longitude": -103.6170,
+    "distance_miles": 1.6,
+    "difficulty": "Moderate",
+    "description": "Trail into a dramatic 1,500-foot limestone canyon along the Rio Grande."
+  },
+  {
+    "name": "Big Bend: Hot Springs Trail",
+    "latitude": 29.1770,
+    "longitude": -102.9990,
+    "distance_miles": 1.0,
+    "difficulty": "Easy",
+    "description": "Short hike to natural hot springs along the Rio Grande with historic ruins."
+  },
+  {
+    "name": "Congaree: Boardwalk Loop",
+    "latitude": 33.7920,
+    "longitude": -80.8210,
+    "distance_miles": 2.4,
+    "difficulty": "Easy",
+    "description": "Elevated boardwalk through one of the tallest old-growth floodplain forests in North America."
+  },
+  {
+    "name": "Haleakala: Hosmer Grove Loop",
+    "latitude": 20.7690,
+    "longitude": -156.2340,
+    "distance_miles": 0.5,
+    "difficulty": "Easy",
+    "description": "Short loop through native Hawaiian plants and introduced species on Maui."
+  },
+  {
+    "name": "Redwood: Trillium Falls Trail",
+    "latitude": 41.3540,
+    "longitude": -124.0500,
+    "distance_miles": 2.8,
+    "difficulty": "Easy",
+    "description": "Loop through old-growth redwoods to a charming waterfall in Redwood National Park."
+  },
+  {
+    "name": "Redwood: Lady Bird Johnson Grove Trail",
+    "latitude": 41.3650,
+    "longitude": -124.0100,
+    "distance_miles": 1.5,
+    "difficulty": "Easy",
+    "description": "Flat loop through an ancient redwood grove dedicated to the former First Lady."
+  },
+  {
+    "name": "Pinnacles: Balconies Cave Trail",
+    "latitude": 36.4880,
+    "longitude": -121.1820,
+    "distance_miles": 2.4,
+    "difficulty": "Moderate",
+    "description": "Hike through talus caves formed by volcanic boulders in Pinnacles National Park."
+  },
+  {
+    "name": "Carlsbad Caverns: Natural Entrance Trail",
+    "latitude": 32.1753,
+    "longitude": -104.4462,
+    "distance_miles": 1.2,
+    "difficulty": "Moderate",
+    "description": "Descend 750 feet into one of the world's most spectacular cave systems in New Mexico."
+  },
+  {
+    "name": "White Sands: Dune Life Nature Trail",
+    "latitude": 32.7872,
+    "longitude": -106.3258,
+    "distance_miles": 1.0,
+    "difficulty": "Easy",
+    "description": "Interpretive loop trail through bright white gypsum dunes in New Mexico."
+  }
+]
